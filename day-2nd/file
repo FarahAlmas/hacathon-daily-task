@@ -1,0 +1,31 @@
+– A Revolutionary Furniture Marketplace
+
+I’m excited to share my latest project: a next-generation furniture marketplace designed to seamlessly connect buyers and sellers with an intuitive, feature-rich platform. With a strong focus on user experience and robust backend capabilities, this platform offers a truly modern approach to online furniture shopping.
+
+Key Highlights:
+Intuitive Product Discovery: Browse through a curated catalog of furniture products, each with detailed descriptions, images, and specifications. The platform’s easy navigation ensures an enjoyable shopping experience.
+
+Seamless Payments: Integrated with Stripe, users can enjoy secure and simple payment processing, allowing for smooth transactions across all devices.
+
+Efficient Shipping: By integrating ShipEngine, the platform offers real-time shipping and tracking capabilities, giving users transparency and control over their orders.
+
+Modern, Scalable Architecture: Built with Next.js on the frontend and Sanity CMS for content management, this solution is both lightning-fast and highly adaptable, making it a scalable choice for future growth.
+
+Technology Stack:
+Frontend: Built using Next.js, ensuring a fast, responsive, and SEO-optimized user experience.
+Backend: Content is managed through Sanity CMS, providing a flexible and powerful platform to update and manage product listings dynamically.
+Payment Gateway: Integrated with Stripe for secure and reliable payment processing, offering multiple payment methods.
+Shipping & Logistics: Powered by ShipEngine, which handles real-time shipping rates, tracking, and logistics integration for an optimized delivery experience.
+Project Schema Overview:
+Product Details: Each product is defined by its title, name, category, size, description, and images. This schema ensures consistency across the marketplace and provides users with the essential product information they need.
+
+Sanity CMS: Dynamic content management ensures that the product listings are easily updated and maintained, making the platform flexible and adaptable to market changes.
+
+Stripe Integration: Enables users to securely complete their transactions, with integrated checkout, payment processing, and transaction management.
+
+ShipEngine Integration: Offers users real-time tracking, shipping rate calculations, and streamlined logistics, making the entire buying process simple and hassle-free.
+
+Future Vision:
+User Accounts & Personalization: Future plans include adding personalized user accounts, order histories, and advanced recommendation engines.
+Enhanced Search & Filters: More powerful product search filters and category browsing to enhance the user experience.
+Customer Feedback: A built-in rating and review system for products to foster trust and engagement within the marketplace.
